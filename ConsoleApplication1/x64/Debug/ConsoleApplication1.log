@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\18\Community\MSBuild\Microsoft\VC\v180\Microsoft.CppBuild.targets(548,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj, Main.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Training.cpp
+C:\Users\ASUS\source\repos\ConsoleApplication1\ConsoleApplication1\Training.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  EmailValidation.cpp
+  PasswordValidation.cpp
+  Generating Code...
+C:\Users\ASUS\source\repos\ConsoleApplication1\ConsoleApplication1\EmailValidation.cpp(33,1): warning C4715: 'emailValidation': not all control paths return a value
+  ConsoleApplication1.vcxproj -> C:\Users\ASUS\source\repos\ConsoleApplication1\x64\Debug\Training.exe
